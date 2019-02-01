@@ -2,9 +2,11 @@ package haya;
 public class haya {
 	  public static void main(String[] args) 
 	    { 
+		  
 	       hw x;
 	       x=new hw();
 	       System.out.println("x="+x);
+	       System.out.println("hayakhufash");
 	    } 
 	}
 class hw {
